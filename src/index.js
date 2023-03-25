@@ -1,5 +1,4 @@
 const express=require("express");
-const mongoose=require("mongoose");
 const cors=require("cors");
 const sprintRouter=require("./features/routes/sprintRoute");
 const taskRouter=require("./features/routes/taskRoute");
