@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sudarshan441/task-planer-backend/issues"
   },
-  "homepage": "https://github.com/sudarshan441/task-planer-backend#readme"
+  "homepage": "https://github.com/sudarshan441/task-planer-backend#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
 }
